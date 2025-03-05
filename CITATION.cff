@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this code in your research or project, please cite it using the information below."
+authors:
+  - family-names: "Santa"
+    given-names: "Fernando"
+    orcid: "https://orcid.org/0000-0001-6309-2908"
+title: "An example of a prediction map using universal kriging in R"
+version: "1.0.0"
+doi: "10.5281/zenodo.0000000"  # (Optional: If you upload to Zenodo, get a DOI)
+date-released: "2025-03-05"
+license: "MIT"
+repository-code: "https://github.com/fsantag83/Geostatistics"
