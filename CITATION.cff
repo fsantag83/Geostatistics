@@ -6,7 +6,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-6309-2908"
 title: "An example of a prediction map using universal kriging in R"
 version: "1.0.0"
-doi: "10.5281/zenodo.0000000"  # (Optional: If you upload to Zenodo, get a DOI)
+doi: "10.5281/zenodo.14975600"
 date-released: "2025-03-05"
 license: "MIT"
 repository-code: "https://github.com/fsantag83/Geostatistics"
